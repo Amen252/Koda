@@ -1,7 +1,7 @@
 import React from 'react';
 import { SquareCode, Activity, Binary, ArrowRight } from 'lucide-react';
 import { motion } from 'framer-motion';
-import heroImg from '../assets/Hero.png';
+import heroImg from '../assets/hero.png';
 import mao from '../assets/Mao.jpeg';
 import dalfac from '../assets/dalfac.jpeg';
 import ismail from '../assets/ismail.jpeg';
