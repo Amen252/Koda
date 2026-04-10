@@ -1,16 +1,46 @@
-# React + Vite
+# ⌘ Koda Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> **A premium, high-velocity publishing platform built exclusively for developers.**
 
-Currently, two official plugins are available:
+![Koda Screenshot](src/assets/Screenshots/WhatsApp%20Image%202026-04-10%20at%2022.13.34.jpeg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Koda was meticulously designed and built from the ground up as part of the **"Build With AI"** course by Brad. It serves as a modern, distraction-free environment for software engineers to read, write, and share architectural patterns, tutorials, and insights.
 
-## React Compiler
+## ✨ Project Highlights
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Boutique "Pro-Dev" UI:** A deeply considered aesthetic utilizing a primary Midnight Navy palette accented by sharp, geometric icons and wide typography.
+- **Asymmetric Bento Grids:** Features the latest UI trends including fluid glassmorphism, glowing radials, and smooth scroll animations.
+- **Cinematic Article Layouts:** Full-bleed edge-to-edge dark hero images for blogs, mirroring the reading experience of high-end editorial and dev-tool platforms.
+- **Split-Screen Authentication:** Bypasses standard generic cards for a beautiful, massive 50/50 desktop layout for both Login and Registration flows.
 
-## Expanding the ESLint configuration
+## 📸 Platform Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<div align="center">
+  <img src="src/assets/Screenshots/WhatsApp%20Image%202026-04-10%20at%2022.13.35%20(1).jpeg" width="800" alt="Home Page / Bento Box"/>
+  <br/><br/>
+  <img src="src/assets/Screenshots/WhatsApp%20Image%202026-04-10%20at%2022.13.35.jpeg" width="800" alt="Articles List"/>
+  <br/><br/>
+  <img src="src/assets/Screenshots/WhatsApp%20Image%202026-04-10%20at%2022.13.36%20(1).jpeg" width="800" alt="Article Summary"/>
+  <br/><br/>
+  <img src="src/assets/Screenshots/WhatsApp%20Image%202026-04-10%20at%2022.13.36.jpeg" width="800" alt="Registration Architecture"/>
+</div>
+
+## 🛠️ Stack
+
+- **Framework:** React 19 / Vite
+- **Styling:** Tailwind CSS
+- **Animation:** Framer Motion
+- **Icons:** Lucide React
+- **Typography:** Poppins (Global) & Syncopate (Logo/Branding)
+
+## 🚀 Running Locally
+
+To start the development server, run:
+
+```bash
+npm install
+npm run dev
+```
+
+---
+*Developed during the Build With AI course.*
